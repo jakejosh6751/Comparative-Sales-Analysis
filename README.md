@@ -72,5 +72,21 @@ _comparative sales dashboard (below)_:
 
 ### 5.	Findings
 
-_Fiscal year 2013-2014 insights from each chart_:
+```Fiscal year 2013-2014 insights from each chart:```
 
+* Current and Previous Year Sales by Country;
+	* For the 10 best countries in terms of 2014 sales, DR Congo, Nigeria, and Senegal recorded a decline in revenue.
+
+* Current and Previous Year Sales by Month;
+	* Generally, revenue growth is observed from 2013 to 2014 except for the conspicuous anomaly in February and a slight decline in July 2014.
+
+* Current and Previous Year Sales by Segment;
+	* A significant increase in sales for Consumer segment, slight increase for “Head Office” and a decline for “Corporate Segment”.
+
+* Current Year Sales, Previous Year Sales, and Year on Year Sales Growth % by Category and Sub-category;
+	* Increase of 14.3%, 26.2% & 27.7% on sales of furniture, office supplies, and technology categories respectively. However, 17.6% & 4.0% declines are observed for chairs and accessories respectively.
+
+### 6.	Recommendations
+
+* Further findings should be done to ascertain the cause of the anomaly in February sales in 2013 and 2014. It could be due to competition or alternative products in the market.
+* The remarkable growth from $100k to $168k in sales from 2013 to 2014 signals possible untapped potential to drive sales for the Consumer Segment.
