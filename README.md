@@ -69,6 +69,7 @@ _comparative sales model diagram (below)_:
 _comparative sales dashboard (below)_:
 
 ![comparative sales dashboard](https://github.com/jakejosh6751/Comparative-Sales-Analysis/blob/main/comparative%20sales%20dashboard.png)
+[See Interactive Dashboard](https://app.powerbi.com/groups/579e1741-4356-4184-93fb-13e61310efdc/reports/d4017250-464e-4403-8326-8921f853f2ee/ReportSection?experience=power-bi)
 
 ### 5.	Findings
 
